@@ -1,0 +1,32 @@
+# Entornos virtuales (Ignora la carpeta donde están las librerías instaladas)
+.venv/
+venv/
+ENV/
+env/
+
+# Caché de Python (Archivos compilados .pyc)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datos y resultados (Para evitar subir tus PDFs originales o los divididos por error)
+*.pdf
+*.xlsx
+*.xls
+*.csv
+/resultado_division/
+/Archivos_Divididos/
+
+# Configuraciones de editores de código comunes
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
