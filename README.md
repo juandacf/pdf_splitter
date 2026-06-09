@@ -25,6 +25,8 @@ Abre tu terminal y navega hasta la carpeta donde guardaste el script `main.py`:
 ```powershell
 cd "C:\Ruta\A\Tu\Carpeta\separador_pdf"
 
+// También, se puede dar click derecho dentro del explorador de archivos y clickear en Abrir en Terminal
+
 2. Crear un Entorno Virtual
 
 Para mantener las librerías aisladas y evitar conflictos con otros programas de tu sistema, crea un entorno virtual ejecutando:
